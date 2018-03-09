@@ -1,3 +1,3 @@
 # first-project
 practice purpose
-git hub first commit
+git hub first commit .
